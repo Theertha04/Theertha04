@@ -68,27 +68,6 @@ A Django-based Employee Management and Wellness Recommendation System that strea
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Theertha04&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theertha04&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Theertha04&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Theertha04&theme=radical&no-frame=true&margin-w=15"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Theertha04&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 - 🤖 Artificial Intelligence
