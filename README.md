@@ -102,23 +102,6 @@ Django-based employee management and wellness recommendation system that streaml
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Theertha04&show_icons=true&theme=radical&hide_border=true&title_color=E4499A&icon_color=EE7B30&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theertha-priyan&theme=radical&hide_border=true&background=0d1117&ring=E4499A&fire=EE7B30&currStreakLabel=E4499A" height="165"/>
-</div>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theertha-priyan&layout=compact&theme=radical&hide_border=true&title_color=E4499A&text_color=ffffff&bg_color=0d1117" height="165"/>
-</p>
-
-> ⚠️ Replace `theertha-priyan` above with your exact GitHub **username** (not your LinkedIn slug) or these cards will show "user not found."
-
----
-
 ### 🌱 Currently Exploring
 
 `Artificial Intelligence` · `Deep Learning` · `Generative AI` · `Data Analytics` · `Cloud Computing` · `LLMs`
@@ -136,9 +119,10 @@ Django-based employee management and wellness recommendation system that streaml
 </a>
 </p>
 
-<p align="center"><i>⚠️ Replace YOUR_EMAIL_HERE with your real email — I left your original address as-is below since I couldn't confirm it.</i></p>
+<p align="center"><i>theerthapriyan12@gmail.com</i></p>
 
-📧 theerthapriyan12@[confirm domain]
+📧 theerthapriyan12@gmail.com
+
 
 ---
 
